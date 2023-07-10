@@ -1,0 +1,14 @@
+{
+  "name": "template-programming-basics-array-functions",
+  "scripts": {
+    "ts": "tsx",
+    "format": "npx prettier --write ."
+  },
+  "author": "codelex-io",
+  "devDependencies": {
+    "@tsconfig/node18": "^2.0.1",
+    "@types/node": "^20.3.1",
+    "prettier": "2.8.8",
+    "tsx": "^3.12.7"
+  }
+}
